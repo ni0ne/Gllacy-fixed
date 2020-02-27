@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.8;
+      }
+    </style>
+  </defs>
+  <image id="Твитер" class="cls-1" width="32" height="32" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACuklEQVRYhc2XPWhUQRSFv/tYhMRfRCNElKAklT9N7IOFP4UKphAiCGtjExIhEOwFFcEiYL+VARG2sAtqsLRIFxVhgy4JRLAIKGYLFa/Mct/69mXnzduwu3qqZN+dOWdm7px7R8gJVd0LjAGjwDAwCPTb6BqwDlSAJeC1iHzNM3NQgKo6siJwFijk1PsLWARKIlLZlgBVdaubAsbzCPVNA5SBORGp5RagqseAR8CRbRKnsQbMiMjHoABVPQk8BnZ2iDzGJjApIsteAbbyUhfIkyKKyZ1oCLAzf9LBbffBHcf1OCeiRNBUD8gxjun4n7oAu2rjPSCPcdU4GztQzLhqmmNCd7ZzwGXgAjALVO2bM6ifqXgxTsQcbsFjMqvAQ+ABsMtD7s7ypoisNKlW3QMcAn4Az1LHjZnV+cjs1edwVRF5A9wAPnhiSmny+spEvpkL7gfethjnOMci83YfhmyyVRNxD/iUin3lG6yqO4CLwClPyGjBCosPR50xOfMQkd9mq2VVdcKcYR2wa+XDYZdwGd+HC1bVfHgPnFDVdyYg3t5qIsmycDDwfTBKlNRW2Ac8TZK3iaFAeH86M7coBG6raijOh6z8qiOya5SFCeCOqvquYUtYAp4JhNUiM4oQFkTke5urvwTsDsSsR9ZGhTCrqgN5mc3cbuUIrUTWw4VwHHiuqnetamaRu62/bwYUwlLIip3pbACf7Uq+FJGNDPIBIz+dg7xuxQXXvaqqayDPtQhyjck88CIrB1TVldgrwDWgLwe5w6LjFv6W4/mMiuh8YMXy5Yvdnj4zmhFzvHbgKuyEqxX1bXd/qGo5oyeIjGikTSIfynG7/v+0ZPbDjDUX3cKmtecN82uyWOtWJ7skIm7Lm94GWzze+vZioMy2izVrx5fT40JPs2mr5719mqWE/JvHaQshnX+eA38AZC3siXcNNGkAAAAASUVORK5CYII="/>
+</svg>
